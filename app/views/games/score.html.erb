@@ -1,4 +1,5 @@
 
-<%= @message %>
+<%= @message %><br>
+<p class="score"><%= "Score : #{session['score']}" %></p>
 <br>
-<%= link_to "Play another game !", "/new" %>
+<p class="link"><%= link_to "Play another game !", "/new" %></p>
