@@ -1,24 +1,5 @@
-# README
+# Longest Word Game
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Exercise made during [Le Wagon bootcamp](https///www.lewagon.com) where I had to make a game.
+The principle is simple, you have a list of letters given randomly and you have to write the longest valid english word you can find with these letters.
+The starting route is /new
